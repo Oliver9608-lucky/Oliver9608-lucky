@@ -1,7 +1,4 @@
 <h1 align="center"><b>AI Specialist/Python Full Stack Developer</b><br /></h1>
-<h3>Experienced Automation Engineer and Data Scientist with a background in Computational Linguistics
-and AI and 5 years of professional experience applying NLP methods and Data analysis system to realworld challenges across different domains.</h3>
-
 <br/>
 
 <div align="center">
