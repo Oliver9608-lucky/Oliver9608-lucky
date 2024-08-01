@@ -1,8 +1,6 @@
 <h1 align="center"><b>AI Specialist/Python Full Stack Developer</b><br /></h1>
-<h2 align="center">Welcome to the <b>World of AI Magic</b><br />
-    <a href="http://github.com/HP319193?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=HP319193&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
-    <a href="http://github.com/HP319193?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/HP319193?color=4C1&logo=github&style=plastic&label=FOLLOWERS"></a><br />
-</h2>
+<h3>Experienced Automation Engineer and Data Scientist with a background in Computational Linguistics
+and AI and 5 years of professional experience applying NLP methods and Data analysis system to realworld challenges across different domains.</h3>
 
 <br/>
 
