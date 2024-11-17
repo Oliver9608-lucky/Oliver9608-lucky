@@ -1,12 +1,6 @@
 <h1 align="center"><b>AI Specialist/Python Full Stack Developer</b><br /></h1>
 <br/>
 
-<div align="center">
-  <h2><b>👨🏻‍🎓 Achievements 👨🏻‍🎓</b></h1><br />
-  <a href="https://www.credly.com/org/workforce-center/badge/data-engineering-certificate"><img src="https://github.com/HP319193/HP319193/blob/main/certify1.png" width="250" height="250"></a>
-  <a href="https://www.credly.com/org/coding-temple/badge/python-certified.1"><img src="https://github.com/HP319193/HP319193/blob/main/certify2.png" width="250" height="250"></a>
-  <a href="https://www.credly.com/org/ibm/badge/python-project-for-ai-and-application-development"><img src="https://github.com/HP319193/HP319193/blob/main/certify3.png" width="250" height="250"></a>
-</div>
 <br/>
 
 <h2 align="center">⚡ Tech Stack</h1>
