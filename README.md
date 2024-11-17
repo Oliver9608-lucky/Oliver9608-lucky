@@ -2,7 +2,6 @@
 <br/>
 
 <br/>
-
 <h2 align="center">⚡ Tech Stack</h1>
 <table align="center">
   <tr>
